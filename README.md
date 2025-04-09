@@ -1,10 +1,8 @@
-<p align="center">
-  <img src="favicon.ico" alt="ShadowStamp Logo" width="120" />
-</p>
 
-<h1 align="center">ShadowStamp</h1>
+<h1  align="center"> ShadowStamp</h1>
 
 <p align="center">
+
   <i>Blockchain-Based Invisible Watermarking & Authentication Platform for all Digital Contents</i>  
 </p>
 
@@ -55,7 +53,7 @@ ShadowStamp/
 
 ### 1. Clone the Repo
 ```bash
-git clone https://github.com/your-username/shadowstamp.git
+git clone https://github.com/jr-einstein/shadowstamp.git
 cd shadowstamp
 ```
 
