@@ -73,7 +73,7 @@ Visit `http://localhost:5173` to see ShadowStamp in action.
 ## 📸 Preview
 
 > 📷 **Coming Soon:** Live AR Reveal Demo  
-> 🔗 [Demo Link](https://shadowstamp.io) (placeholder)
+> 🔗 [Demo Link](https://shadowstamp.vercel.app/) 
 
 ---
 
@@ -86,13 +86,7 @@ Visit `http://localhost:5173` to see ShadowStamp in action.
 | Computer Vision  | OpenCV, YOLO                             |
 | AR Integration   | Vuforia, ARCore                          |
 | Security         | SHA-256, IPFS (optional)                 |
-| Hosting          | Vercel / AWS                             |
-
----
-
-## 👨‍💻 Author
-
-**TeamWhiteHatLover**  
+| Hosting          | Vercel                                   |
 
 ---
 
@@ -104,5 +98,5 @@ See `LICENSE` for more information.
 ---
 
 <p align="center">
-  Built with 💡, 🔒, and 🚀 by Team WhiteHatLovers
+  Built by Team WhiteHatLovers
 </p>
